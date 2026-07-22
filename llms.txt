@@ -7,7 +7,6 @@ Key facts (July 2026 founding edition):
 - Compute per ~$120 research job: under $15 in model tokens (estimate, marked).
 - AI content network: 80,000+ subscribers, six-figure annual run rate; survivor of multiple attempts.
 - Two ventures killed in July 2026 (copyright exposure; underwater niche monetization), post-mortems published.
-- AI voice-agent agency researched and declined; findings published.
 
 ## Core pages
 - [The AI Business P&L Report, July 2026](https://aibusinessledger.com/report/2026-ai-business-pnl/): venture-by-venture revenue, costs, margins, and post-mortems
