@@ -6,8 +6,8 @@
   "notes": "First-party data. Dollar figures rounded per stated policy (nearest $50 above $500, toward the less flattering direction for revenue). Client and channel names redacted by policy. Unmarked figures are records, not estimates.",
   "ventures": [
     {
-      "label": "VerifiedDesk services desk",
-      "model": "marketplace freelancing with AI fulfillment",
+      "label": "V1 services desk",
+      "model": "marketplace freelancing on in-house automation systems",
       "age_at_report": "3 weeks selling",
       "status": "active",
       "revenue": {"collected_plus_funded_escrow_usd_floor": 2700, "active_clients": 5, "concentration": "no single client exceeds half of total"},

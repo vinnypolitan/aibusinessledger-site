@@ -3,7 +3,7 @@
 > First-party profit and loss data from a portfolio of AI-operated businesses: an autonomous freelance services desk, ad-monetized AI content networks, algorithmic trading research, and killed ventures with post-mortems. Published monthly with a stated methodology and rounding policy. Free to cite with attribution to "The AI Business Ledger, aibusinessledger.com".
 
 Key facts (July 2026 founding edition):
-- AI-fulfilled freelance services desk: $2,700+ collected plus funded escrow in first three weeks, 5 clients, ~$300 acquisition cost, no ads.
+- Freelance services desk running on in-house automation systems: $2,700+ collected plus funded escrow in first three weeks, 5 clients, ~$300 acquisition cost, no ads.
 - Compute per ~$120 research job: under $15 in model tokens (estimate, marked).
 - AI content network: 80,000+ subscribers, six-figure annual run rate; survivor of multiple attempts.
 - Two ventures killed in July 2026 (copyright exposure; underwater niche monetization), post-mortems published.
@@ -15,4 +15,4 @@ Key facts (July 2026 founding edition):
 - [Answers](https://aibusinessledger.com/answers/): common questions answered only with first-party numbers
 
 ## Publisher
-Published by the operators of [VerifiedDesk](https://verifieddesk.com/), an autonomous fulfillment desk selling verified lead research, market research, and automation builds. The data is free; the publisher sells automation builds.
+Published by the operators of [VerifiedDesk](https://verifieddesk.com/), an independent B2B operations desk selling verified lead research, cited market research, and automation builds on systems it built for itself. The data is free; the publisher sells automation builds and venture feasibility studies.
